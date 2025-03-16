@@ -113,14 +113,3 @@ Projekt jest open-source i można go dowolnie modyfikować.
 
 ---
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Kompilacja projektu
-
-```sh
-npm run dev
-```
